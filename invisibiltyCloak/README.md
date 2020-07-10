@@ -1,4 +1,4 @@
-Instructions to simulate the project of invisibilty cloak:
+Instructions to simulate the project of invisibility cloak:
 
 1. Download all the files and install all the necessary libraries in order to run the file.
 2. Run the file in your favourite/any IDE,
