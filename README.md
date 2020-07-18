@@ -1,5 +1,5 @@
 # ComputerVision
-Source codes,files,projects related to computer vision.
+Source codes,files,projects related to computer vision projects.
   
     
 Make sure to read the READMEs for instructions for the projects.  
